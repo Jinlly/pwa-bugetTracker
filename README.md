@@ -23,8 +23,7 @@ To start the server, run `npm start`. To access the app after starting the serve
 
 ## Example Usage
 
-Deployed App: 
-
+Deployed App: !! IT runs well locally, but never on heroku. Heroku gives me every error codes expecially "H10" I really do not know how to solve it
 
 
 ## Questions

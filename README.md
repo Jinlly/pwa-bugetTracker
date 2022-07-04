@@ -19,7 +19,7 @@ $ npm install
 
 ## Usage
 
-To start the server, run `npm start`. To access the app after starting the server, go to http://localhost:3000 in your browser.
+To start the server, run `npm start`. To access the app after starting the server, go to http://localhost:3030 in your browser.
 
 ## Example Usage
 

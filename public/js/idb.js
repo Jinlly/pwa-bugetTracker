@@ -9,7 +9,7 @@ request.onupgradeneeded = function(event) {
 };
 
 //on error
-request.onerror = function(event) {
+request.onerror = function(error) {
     console.log(error.errorCode);
 };
 
